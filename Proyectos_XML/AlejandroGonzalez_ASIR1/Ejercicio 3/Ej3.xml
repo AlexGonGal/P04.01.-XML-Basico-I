@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 Nombre: [Alejandro González Galindo]
 Curso: [ASIR]
 Fecha: [19/03/2025]
 Ejercicio: [Ejercicio 3]
 -->
-<?xml version="1.0" encoding="UTF-8"?>
 <libros>
     <libro titulo="El principito" autor="Antoine de Saint-Exupéry" año="1943"/>
     <libro titulo="La sombra del viento" autor="Carlos Ruiz Zafón" año="2001"/>
