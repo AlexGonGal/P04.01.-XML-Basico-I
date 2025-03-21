@@ -1,1 +1,2 @@
 <!-- He creado un elemento raíz, en el que he metido 3 veces el subelemento ciudad, que a su vez contiene el atributo continente. Dentro de ciudad, hay más subelementos en los que se incluye la información pedida. -->
+jvfjndfjnjvn
