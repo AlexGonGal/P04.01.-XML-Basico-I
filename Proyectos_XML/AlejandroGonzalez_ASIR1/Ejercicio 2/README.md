@@ -1,0 +1,1 @@
+He creado un elemento raíz, en el que he metido 3 veces el subelemento hecho, que a su vez contiene el atributo descripción. Dentro de hecho, hay más subelementos en los que se incluye la información pedida.
